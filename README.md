@@ -2,8 +2,6 @@
 
 > Hey，coder——每天多一点灵感。不贩卖焦虑，只分享一点点：开源项目、开发者工具与技术趣闻，轻松读、慢慢攒。
 
-**仓库**：[github.com/tageecc/heycoder](https://github.com/tageecc/heycoder)
-
 ---
 
 ## 这是什么
@@ -36,33 +34,35 @@
 
 - 打开微信 → 搜索 **「HeyCoder」** → 关注即可。
 
-若你希望在本 README **顶部展示关注二维码**（方便从 GitHub 一键扫码），可将二维码图片放到仓库 **`assets/wechat-qrcode.png`**（建议正方形、清晰、背景简洁），提交后可在下方自行增加一行图片引用，或把图片发我代为接入：
+若希望在本页展示**关注二维码**，将图片放到 **`assets/wechat-qrcode.png`** 后，在 README 合适位置加入：
 
 ```markdown
 ![HeyCoder 微信公众号](assets/wechat-qrcode.png)
 ```
 
-（当前仓库未默认包含该图片，避免占位图误导。）
+（未放图前可省略，避免坏链。）
 
 ---
 
-## 内容在哪里
+## 内容索引
 
-所有正文在 [`content/`](content/) 目录下，按文件更新即可；不必在 README 里维护「第几期」表格。新文章可沿用 `HeyCoder001.md` 这类命名，或按日期命名，随你习惯。
+**推荐项目与文章正文**都在 [`content/`](content/) 目录下的 Markdown 里，按文件浏览即可。  
+与多数「策展型」仓库一样：**清单不进 README 重复维护**，以免和正文两处不一致；需要目录时，以 `content/` 内文件为准。
 
 ---
 
-## 参与
+## 参与与致谢
 
-- **推荐项目**：使用 [Issue：项目推荐](https://github.com/tageecc/heycoder/issues/new/choose)（若模板未生效，直接开 Issue 说明仓库链接与一句话介绍即可）。
-- **贡献者致谢**：见 [`content/contributors.md`](content/contributors.md)。
+- **推荐 / 自荐项目**：[提交 Issue（项目推荐）](https://github.com/tageecc/heycoder/issues/new/choose)；若模板未加载，新开 Issue 写明仓库链接与一句话介绍即可。
+- **致谢名单**（推荐人、贡献者）：见 [`content/contributors.md`](content/contributors.md)。  
+  代码与文档的直接提交者也可在 GitHub **[Contributors](https://github.com/tageecc/heycoder/graphs/contributors)** 查看。
 
 ---
 
 ## 仓库结构
 
 ```
-content/     文章与清单（Markdown）
+content/     文章与项目清单（Markdown）
 script/      辅助脚本（可选）
 assets/      图片等资源（如公众号二维码）
 ```
