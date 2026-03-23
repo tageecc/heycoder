@@ -54,8 +54,14 @@
 ## 参与与致谢
 
 - **推荐 / 自荐项目**：[提交 Issue（项目推荐）](https://github.com/tageecc/heycoder/issues/new/choose)；若模板未加载，新开 Issue 写明仓库链接与一句话介绍即可。
-- **致谢名单**（推荐人、贡献者）：见 [`content/contributors.md`](content/contributors.md)。  
-  代码与文档的直接提交者也可在 GitHub **[Contributors](https://github.com/tageecc/heycoder/graphs/contributors)** 查看。
+- **推荐人与内容致谢**：见 [`content/contributors.md`](content/contributors.md)。
+
+## 仓库贡献者
+
+对本仓库有 **Git 提交记录** 的贡献者由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 自动写入下表（与 [Contributors 统计](https://github.com/tageecc/heycoder/graphs/contributors) 同源）。有新合并进 `main` 的提交时会更新。
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 ---
 
