@@ -7,15 +7,13 @@
 
 ---
 
-## 微信公众号 · 主阵地
+## 微信公众号
 
-在微信中阅读、订阅推送，请搜索并关注：**HeyCoder**。
+在微信中阅读、订阅推送：搜索 **HeyCoder**，或扫描下方二维码关注。
 
-若要在本页展示**关注二维码**，将图片保存为 `assets/wechat-qrcode.png` 后引用：
-
-```markdown
-![HeyCoder 微信公众号](assets/wechat-qrcode.png)
-```
+<p align="center">
+  <img src="assets/wechat-qrcode.jpg" alt="HeyCoder 微信公众号二维码" width="220" />
+</p>
 
 ---
 
