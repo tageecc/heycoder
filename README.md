@@ -87,22 +87,14 @@ code HeyCoder001.md
 
 ## 👥 贡献者
 
-下列头像由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 根据提交记录更新，与 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 一致。
+下列为仓库 **Git 提交者**头像：小尺寸、略重叠，人数增多时横向排开，便于一眼扫过。名单由 [GitHub Actions](https://github.com/tageecc/heycoder/actions/workflows/contributors-readme.yml) 根据 API 更新，与 [Contributors](https://github.com/tageecc/heycoder/graphs/contributors) 一致。
 
 <!-- readme: contributors -start -->
-<table>
-	<tbody>
-		<tr>
-            <td align="center">
-                <a href="https://github.com/tageecc">
-                    <img src="https://avatars.githubusercontent.com/u/8930882?v=4" width="64;" alt="tageecc"/>
-                    <br />
-                    <sub><b>tage</b></sub>
-                </a>
-            </td>
-		</tr>
-	<tbody>
-</table>
+<p align="left">
+<span style="display:inline-flex;align-items:center;flex-wrap:wrap;">
+<a href="https://github.com/tageecc" title="tageecc"><img src="https://avatars.githubusercontent.com/u/8930882?v=4&amp;s=64" width="28" height="28" alt="tageecc" style="border-radius:50%;border:2px solid #fff;margin-left:0;vertical-align:middle;box-sizing:content-box;" /></a>
+</span>
+</p>
 <!-- readme: contributors -end -->
 
 ---
